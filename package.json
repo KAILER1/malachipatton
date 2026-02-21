@@ -1,0 +1,7 @@
+{
+  "name": "mp-creativity-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  }
+}
